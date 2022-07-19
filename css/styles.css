@@ -1,0 +1,17 @@
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+.c-wrap {
+  padding: 4%;
+}
+.card-block {
+  padding: 3%;
+}
+.code {
+  border-radius: 10px;
+}
+.form-group .fh {
+  padding: 10px;
+}
